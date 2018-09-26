@@ -623,5 +623,9 @@ pre tt:after {
   }
 }
 p {
-  color: pink;
+  color: #630024;
+}
+
+body {
+  background-image: linear-gradient(to bottom, #e96990, #ff847f, #ffa772, #ffcd70, #fff482);
 }

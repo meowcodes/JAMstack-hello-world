@@ -622,10 +622,10 @@ pre tt:after {
     font-size: 100%;
   }
 }
-p {
-  color: #630024;
-}
-
 body {
   background-image: linear-gradient(to bottom, #e96990, #ff847f, #ffa772, #ffcd70, #fff482);
+  color: #630024!important!;
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
